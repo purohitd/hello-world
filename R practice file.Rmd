@@ -1,0 +1,24 @@
+---
+title: "Hello-world"
+output: html_document
+---
+
+Hello, My name is Divya. I created a R markdown file for my practice.
+
+Thank you and Have a wonderful time.
+
+:D
+
+
+
+
+
+
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
